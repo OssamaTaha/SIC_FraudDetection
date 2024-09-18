@@ -28,7 +28,12 @@
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Data Ingestion: Import financial transactions data into Hadoop HDFS using Sqoop from a MySQL database.
+Data Processing & Transformation: Use Apache Spark to process and transform the ingested data for further analysis.
+Querying: Utilize Hive to query the data and store processed results.
+Machine Learning: Implement machine learning algorithms, such as decision trees or support vector machines (SVM), to detect fraudulent activities.
+Visualization & Reporting: Visualize the detection results using a BI tool, generating insightful reports for decision-making.
+</code>
 
 ---
 
