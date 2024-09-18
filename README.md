@@ -1,23 +1,6 @@
 
 # `SIC_FraudDetection`
 
-#### <code>❯ REPLACE-ME</code>
-
-<p align="left">
-	<img src="https://img.shields.io/github/license/SilverRisha/SIC_FraudDetection?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/SilverRisha/SIC_FraudDetection?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/SilverRisha/SIC_FraudDetection?style=flat&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/SilverRisha/SIC_FraudDetection?style=flat&color=0080ff" alt="repo-language-count">
-</p>
-<p align="left">
-		<em>Built with the tools and technologies:</em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter">
-</p>
-
-<br>
-
 ##### 🔗 Table of Contents
 
 - [📍 Overview](#-overview)
