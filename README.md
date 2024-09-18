@@ -21,7 +21,8 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ This document provides a detailed guide for Project 2: Financial Fraud Detection Using Batch Processing. The project involves developing a batch processing system to detect fraudulent transactions in a financial dataset. The process encompasses data ingestion from a relational database into Hadoop, data transformation using Spark, querying with Hive, applying machine learning for fraud detection, and visualizing the results with a business intelligence (BI) tool.
+</code>
 
 ---
 
