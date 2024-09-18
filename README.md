@@ -55,8 +55,8 @@ Visualization & Reporting: Visualize the detection results using a BI tool, gene
 
 | File | Summary |
 | --- | --- |
-| [DataProcessing.ipynb](https://github.com/SilverRisha/SIC_FraudDetection/blob/main/DataProcessing.ipynb) | <code>❯ REPLACE-ME</code> |
-| [Model.ipynb](https://github.com/SilverRisha/SIC_FraudDetection/blob/main/Model.ipynb) | <code>❯ REPLACE-ME</code> |
+| [DataProcessing.ipynb](https://github.com/SilverRisha/SIC_FraudDetection/blob/main/DataProcessing.ipynb) | <code>❯ A notebook with the full data processing</code> |
+| [Model.ipynb](https://github.com/SilverRisha/SIC_FraudDetection/blob/main/Model.ipynb) | <code>❯ The machine learning model training and evaluation</code> |
 
 </details>
 
